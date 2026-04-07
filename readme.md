@@ -65,4 +65,4 @@ cada dia
 - git add XXX / 
 - git commit -m "creacion del prj"
 
-- git pull
+- git pull# borraGit
