@@ -1,68 +1,23 @@
-Cuaderno de apuntes
+# Proyecto Inicial: PROGRA II
 
-# Class I: git
+## Estructura de Directorios
 
-revisamos los comandos de linux
+* **PROGRA_II/**  
+    **assets/** — Carpeta para recursos, imágenes e iconos.  
+    **.gitignore** — Configuración para ignorar archivos en Git.  
+    **ApuntesClass.md** — Notas y apuntes tomados durante la clase.  
+    **Hello.java** — Código fuente del programa de bienvenida.  
+    **Matematicas.java** — Clase con lógica de funciones matemáticas.  
+    **Sumar.java** — Clase para realizar operaciones de suma  
+    **readme.md** — Guía y documentación del proyecto.  
+    **Archivos .class** — Archivos compilados (no editables).
 
-- ls
-- pwd
-- exit
-- ls -a
-- ls -aL
+---
 
-## primer prg  - java
+**image**  
 
-```java
-public class Hello {
-   public Hello() {
-   }
+![img del prj](assets/Estructura_del_Proyecto.PNG)
 
-   public static void main(String[] var0) {
-      System.out.println("Hello World");
-   }
-}
-```
+**terminal del git**  
 
-## primer prg - suma
-
-```java
-public class Sumar {
-    public static void main(String[] args) {
-        int a = 5;
-        int b = 10;
-        int sum = a + b;
-        System.out.println("La suma de " + a + " y " + b + " es: " + sum);
-    }
-}
-```
-
-# Class II:github
-
-## ComandosLinux
-
-- ls
-- pwd
-- exit
-- ls -a
-- ls -aL
-- cd c:
-- readme.md
-- history
-- history >> readme.md
-- cd .. (Atras)
-- Ctrl + 'x' = borrar linea
-
-## cmd git
-
-1 vez
-
-- git clone http:xxxxx
-- git init : una vez por prj
-
-cada dia
-
-- git status
-- git add XXX / 
-- git commit -m "creacion del prj"
-
-- git pull# borraGit
+![img git basg](assets/terminal.PNG)
