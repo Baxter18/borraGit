@@ -4,6 +4,7 @@
 
 * **PROGRA_II/**  
     **assets/** — Carpeta para recursos, imágenes e iconos.  
+    **src/** — Carpeta para los codigos  
     **.gitignore** — Configuración para ignorar archivos en Git.  
     **ApuntesClass.md** — Notas y apuntes tomados durante la clase.  
     **Hello.java** — Código fuente del programa de bienvenida.  
