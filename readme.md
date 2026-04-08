@@ -21,3 +21,6 @@
 **terminal del git**  
 
 ![img git basg](assets/terminal.PNG)
+
+> [!NOTE]  
+> nota
